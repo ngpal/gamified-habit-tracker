@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Pac-Track
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Chase your goals, eat your fears!**
 
-## Available Scripts
+Pac-Track is a gamified habit tracker inspired by the classic Pac-Man game. It transforms your daily tasks into an interactive maze, making productivity fun and engaging. Complete tasks, earn points, maintain your streak, and climb the leaderboard with your friends and family!
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🎮 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🎯 **Task Categories (Importance-Based)**
+Tasks are divided into four categories based on their importance:
+1. **Power Pellets** (High Priority) - Essential tasks that must be completed. Highest points.
+2. **Big Bites** (Moderate Priority) - Important tasks but not urgent.
+3. **Quick Snacks** (Low Priority) - Small daily habits and routines.
+4. **Ghost Busters** (Bonus) - Extra tasks for additional rewards.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🏆 **Points & Levels**
+- Earn points by completing tasks.
+- Each completed task helps Pac-Man clear the maze.
+- Completing all tasks allows Pac-Man to eat the ghost and finish the level!
+- Maintain your streak to level up!
 
-### `npm test`
+### ❤️ **Lives & Streak System**
+- Each user gets **3 lives**.
+- Missing a task loses a life.
+- Lose all lives, and you’re back to **Level 1** (Day 1 streak reset).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🏁 **Game Maze & Play Button**
+- Your daily tasks are placed in a **maze**.
+- Press **Play** to enter the game and complete tasks.
+- As tasks are completed, Pac-Man eats them.
+- If all tasks are done, Pac-Man eats the final ghost, signifying a perfect day!
 
-### `npm run build`
+### 🔥 **Leaderboard & Achievements**
+Compete with friends and family! Track progress and dominate the leaderboard.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### **Achievements**:
+- **Ghost Hunter** - Count of perfect days (all tasks completed).
+- **Fruit Master** - Earned for collecting extra bonus tasks.
+- **Power Player** - Maintaining the longest streak.
+- **Survivor** - Holding on with minimal lives for the longest time.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📌 How to Use
+1. **Sign Up & Add Friends** - Create your profile and invite friends/family.
+2. **Set Your Tasks** - Assign tasks to the four importance-based categories.
+3. **Start Playing** - Hit the play button and complete tasks in the maze.
+4. **Track Progress** - Maintain streaks, earn points, and unlock achievements.
+5. **Compete on the Leaderboard** - Stay motivated and beat your friends!
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🚀 Future Features
+- **Custom Avatars & Skins**
+- **Daily Challenge Mode**
+- **Task Reminders & Smart Suggestions**
+- **Sync with Calendars & To-Do Lists**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Get started!
+(click here!)[https://stupendous-crepe-af803e.netlify.app/]
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Chase your goals, eat your fears!** 🎉
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
