@@ -13,7 +13,7 @@ Tasks are divided into four categories based on their importance:
 1. **Power Pellets** (High Priority) - Essential tasks that must be completed. Highest points.  
 2. **Big Bites** (Moderate Priority) - Important tasks but not urgent.  
 3. **Quick Snacks** (Low Priority) - Small daily habits and routines.  
-4. **Ghost Busters** (Bonus) - Extra tasks for additional rewards.  
+4. **Ghost Busters** (Bonus) - Extra tasks for additional rewards!  
 
 ### 🏆 **Points & Levels**  
 - Earn points by completing tasks.  
@@ -22,7 +22,7 @@ Tasks are divided into four categories based on their importance:
 - Maintain your streak to level up!  
 
 ### ❤️ **Lives & Streak System**  
-- Each user gets **3 lives**.  
+- Each user gets JUST 3 lives.  
 - Missing a task loses a life.  
 - Lose all lives, and you’re back to **Level 1** (Day 1 streak reset).  
 
