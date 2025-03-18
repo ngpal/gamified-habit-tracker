@@ -61,7 +61,7 @@ Compete with friends and family! Track progress and dominate the leaderboard.
 ---
 
 # Get started!
-(click here!)[https://stupendous-crepe-af803e.netlify.app/]
+[click here!](https://stupendous-crepe-af803e.netlify.app/)
 
 **Chase your goals, eat your fears!** 🎉
 
