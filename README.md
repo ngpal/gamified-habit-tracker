@@ -6,12 +6,6 @@ Pac-Track is a gamified habit tracker inspired by the classic Pac-Man game. It t
 
 ---
 
-## Team Members
-- CB.SC.U4CSE23319 Diya Bhat
-- CB.SC.U4CSE23538 Nishanth S Gowda
-- CB.SC.U4CSE23547 Sheela Akshar Sakhi
-- CB.SC.U4CSE23340 Nandagopal Menon
-
 ## 🎮 **Features**  
 
 ### 🎯 **Task Categories (Importance-Based)**  
@@ -52,7 +46,7 @@ Compete with friends and family! Track progress and dominate the leaderboard.
 ## 🎥 **See Pac-Track in Action!**  
 
 ### ▶ **Watch the Demo**
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1hmu1OTP-WRFhwOxgN06jl6e-wLlwdbye/view?usp=sharing)  
+[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/user-attachments/assets/9abe6151-6c3f-45bb-a84d-e9a4a435598b)
 
 <video width="600" controls>
   <source src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/demo.mp4" type="video/mp4">
@@ -66,6 +60,7 @@ Compete with friends and family! Track progress and dominate the leaderboard.
 <div align="center">
 
 <table>
+
   <tr>
     <td><img src="https://github.com/user-attachments/assets/d8037393-9abc-4caf-b1ba-4102f94a7f9b" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/85603069-f092-4103-941a-cfdd142ad3d7" width="300"/></td>
