@@ -6,6 +6,12 @@ Pac-Track is a gamified habit tracker inspired by the classic Pac-Man game. It t
 
 ---
 
+## Team Members
+- CB.SC.U4CSE23319 Diya Bhat
+- CB.SC.U4CSE23538 Nishanth S Gowda
+- CB.SC.U4CSE23547 Sheela Akshar Sakhi
+- CB.SC.U4CSE23340 Nandagopal Menon
+
 ## 🎮 **Features**  
 
 ### 🎯 **Task Categories (Importance-Based)**  
