@@ -58,7 +58,7 @@ Compete with friends and family! Track progress and dominate the leaderboard.
 Check out screenshots, demo videos, and walkthroughs of Pac-Track in action!  
 
 📹 **Video Demos**:  
-![Watch the Demo](https://github.com/user-attachments/assets/c9300c18-9bfb-48ba-9e1d-c52df994e5c0)  
+![ Watch the Demo ](https://github.com/user-attachments/assets/c9300c18-9bfb-48ba-9e1d-c52df994e5c0)  
 
 ### 📷 **Screenshots**  
 
